@@ -14,19 +14,20 @@ public class EmpDao {
         this.template = template;
     }
     public int save(Emp p){
-        String sql="insert into Emp99(name,salary,designation) values('"+p.getName()+"',"+p.getSalary()+",'"+p.getDesignation()+"')";
+        String sql="insert into emp99(name,salary,designation) values('"+p.getName()+"',"+p.getSalary()+",'"+p.getDesignation()+"')";
         return template.update(sql);
     }
     public int update(Emp p){
-        String sql="update Emp99 set name='"+p.getName()+"', salary="+p.getSalary()+",designation='"+p.getDesignation()+"' where id="+p.getId()+"";
+        String sql="update emp99 set name='"+p.getName()+"', salary="+p.getSalary()+", designation='"+p.getDesignation()+"' where id="+p.getId()+"";
+//        String sql="insert into Emp99(name,salary,designation) values('"+p.getName()+"',"+p.getSalary()+",'"+p.getDesignation()+"') where id=\"+p.getId()+\"";
         return template.update(sql);
     }
     public int delete(int id){
-        String sql="delete from Emp99 where id="+id+"";
+        String sql="delete from emp99 where id="+id+"";
         return template.update(sql);
     }
     public Emp getEmpById(int id){
-        String sql="select * from Emp99 where id=?";
+        String sql="select * from emp99 where id=?";
         return template.queryForObject(sql, new Object[]{id},new BeanPropertyRowMapper<Emp>(Emp.class));
     }
     public List<Emp> getEmployees(){

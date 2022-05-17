@@ -51,8 +51,8 @@ public class EmpController {
      * The @PathVariable puts URL data into variable.*/
     @RequestMapping(value="/editemp/{id}")
     public String edit(@PathVariable int id, Model m){
-        Emp emp=dao.getEmpById(id);
-        m.addAttribute("command",emp);
+        Emp emp1=dao.getEmpById(id);
+        m.addAttribute("command",emp1);
         return "empeditform";
     }
     /* It updates model object. */
