@@ -6,24 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a7dbd22-d9d5-453e-848f-7835f1460f0f" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatpoint/controllers/EmpController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javatpoint/controllers/EmpController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/javatpoint/dao/EmpDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/javatpoint/dao/EmpDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/empeditform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/empeditform.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD.war" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD.war" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/controllers/EmpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/controllers/EmpController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/dao/EmpDao$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/dao/EmpDao$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/dao/EmpDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/classes/com/javatpoint/dao/EmpDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/jsp/empeditform.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/jsp/empeditform.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/spring-servlet.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/SpringMVCCRUD/WEB-INF/spring-servlet.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javatpoint/controllers/EmpController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javatpoint/controllers/EmpController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javatpoint/dao/EmpDao$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javatpoint/dao/EmpDao$1.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/javatpoint/dao/EmpDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/javatpoint/dao/EmpDao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
-    </list>
+    <list default="true" id="5a7dbd22-d9d5-453e-848f-7835f1460f0f" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -264,7 +247,7 @@
       <workItem from="1584529396802" duration="1099000" />
       <workItem from="1584540863027" duration="12580000" />
       <workItem from="1608639203057" duration="146000" />
-      <workItem from="1652826457427" duration="298000" />
+      <workItem from="1652826457427" duration="964000" />
     </task>
     <servers />
   </component>
